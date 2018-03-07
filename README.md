@@ -1,2 +1,2 @@
 # count-me-in
-Create and manage a simple guestlist for upcoming events.  Built using react JS.
+Create and manage a simple guestlist for upcoming events.  Built using react js.
